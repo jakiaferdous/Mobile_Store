@@ -1,0 +1,12 @@
+
+
+.evenrow{
+    background-color:grey
+}
+body {
+
+    background-image: url('backgrund1.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family: Cambria, Arial, sans-serif;
+}
